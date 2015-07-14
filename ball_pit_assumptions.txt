@@ -1,0 +1,5 @@
+volume = length * width * height
+ideal threshold = 35% volume
+each ball is 5.5 cm
+average room is 8ft tall assume if no height is specified
+30.48 cm are in a ft
